@@ -1,3 +1,8 @@
+INSTALACION:
+
+vagrant box add --insecure bento/ubuntu-22.04 --provider=virtualbox
+
+
 
 # Vagrantfile and Scripts to Automate Kubernetes Setup using Kubeadm [Practice Environment for CKA/CKAD and CKS Exams]
 
